@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maher Eid</h1>
 <h3 align="center">A Data Scientist from Egypt</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/Maher3id/MaherEid/blob/main/code%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maher3id&label=Profile%20views&color=0e75b6&style=flat" alt="maher3id" /> </p>
 
